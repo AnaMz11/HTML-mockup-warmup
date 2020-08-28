@@ -86,13 +86,11 @@ Using the command `open index.html` inside the terminal when you are inside the 
     
 ## Finished Outlining the HTML Early? 
 
-1. Do another mockup! We've provided a second mockup in the doggie directory inside of this `warm_up_exercise` folder.
-    - [View the mockup here](doggie/readme.md)
-    - `cd` into the `doggie` directory and do your html layout mockup in the provided `index.html` file!
-       - If you get to the css, make sure to use the provided `main.css` file as well
-    - :elephant: Reminder: We provided all the images needed in the `img` folder, so you'll need to use _relative pathing_ to get those into your index.html
+1. Do another mockup! 
 
-1. Or, just move on to the hungry for more below
+![Dog-Mockup](dog-mockup.png)
+
+2. Or, just move on to the hungry for more below
 
 ## Hungry for More?
 
