@@ -12,26 +12,6 @@ Prerequisites: Basic HTML <br>
 ---
 # Warm Up Exercise
 
-## Where are we going?
-During Unit 1, from here on out, most of the warm up exercises will be dedicated to HTML and CSS. You will get to do mockups (like today),  code alongs (lead by an instructor), or have group activities to work through.
-
-In hw, you'll be given short videos to review topics you'll have covered in Fundamentals, as a quick refresher and get you ready for the warm up exercises. We are going to keep building on what you have learned from Fundamentals or to introduce you to a new topic so that you can make the most out of your warm up exercise time.
-
-As Unit 1 progresses, we'll start putting together all the pieces, HTML, CSS and JavaScript and your assignments will bring all of these things together.
-
-Topic's we'll be covering (Unit 1) during Warm Up Exercises (not set in stone):
-- Mockups
-- UX/UI / Intro to Web Design
-- Wireframing
-- User Stories
-- Flexbox
-- Responsive Design
-- CSS Animations
-- Modals
-
-
-
-
 ## HTML Refresher
 
 You'll be making an HTML page. Today, you'll work on the html. During the next warm up exercise you'll work on the css portion. If you need a quick refresher before you jump into coding, look back at the [HTML video on elements and media](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
