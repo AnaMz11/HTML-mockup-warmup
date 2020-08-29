@@ -16,10 +16,9 @@ Prerequisites: Basic HTML <br>
 
 You'll be making an HTML page. Today, you'll work on the html. During the next warm up exercise you'll work on the css portion. If you need a quick refresher before you jump into coding, look back at the [HTML video on elements and media](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
 
-1) Inside your `warm_up_exercise` folder, create a file for the blog site site. What should you name the file?
-    - Go ahead and make the file
+1) Make a `mockup` directory and create an html file for the blog site site. 
 2) How do you add the boilerplate needed for an HTML file?
-3) How do you add a title to my file so that you can see the name on the browser tab?
+3) How do you add a title to the file so that you can see the name on the browser tab?
 
 
 # Activity
@@ -31,15 +30,6 @@ Look at the image below and create this webpage using HTML (no styling yet - we 
 
 >:elephant: Reminder:<br>
 Using the command `open index.html` inside the terminal when you are inside the folder with your `index.html` file will open your application in your browser.
-
-## Commit Your Work
-
-1. Get used to committing your work! After you create a tag, push the work.
-
->:elephant: Reminder:<br>
-  - `git add .` to add the file
-  - `git commit -m "add a message"` to make a commit
-  - `git push origin master` to push it the work to your branch of the class github repo
 
 ## Plan before you code!
 - Take a few minutes to describe what you see and figure out what tags you'll likely need
